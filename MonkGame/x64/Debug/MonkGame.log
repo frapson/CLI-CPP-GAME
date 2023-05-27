@@ -1,0 +1,6 @@
+﻿  GenerateMap.cpp
+C:\Users\Wojciech\source\repos\MonkGame\MonkGame\GenerateMap.cpp(20,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  MonkGame.cpp
+C:\Users\Wojciech\source\repos\MonkGame\MonkGame\MonkGame.cpp(48,23): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Generating Code...
+  MonkGame.vcxproj -> C:\Users\Wojciech\source\repos\MonkGame\x64\Debug\MonkGame.exe
